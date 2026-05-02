@@ -8,6 +8,7 @@ date: 2026-04-10
 
 - [yet another markdown cheat sheet](#yet-another-markdown-cheat-sheet)
   * [Example Markdown Syntax](#example-markdown-syntax)
+    + [Paragraph](#paragraph)
     + [Bullet List](#bullet-list)
     + [Numbered Bullet List](#numbered-bullet-list)
     + [Nested Lists](#nested-lists)
@@ -24,7 +25,6 @@ date: 2026-04-10
 
 
 # yet another markdown cheat sheet
-
 
 Convert this readme into html using Pandoc:
 
@@ -50,6 +50,14 @@ Markdown is well documented at:
   * <http://daringfireball.net/projects/markdown/syntax>
 
 Table of contents can be handled; manually, with a plugin in the output generator, with tools that inject into the Markdown file itself https://ecotrust-canada.github.io/markdown-toc/
+
+## Paragraph
+
+This is text of simple paragraph.
+Some words are **bold**,
+some _strong_, some *italics*
+
+This is a new, small paragraph.
 
 ### Bullet List
 
