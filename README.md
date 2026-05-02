@@ -358,3 +358,4 @@ https://github.com/ikatyang/emoji-cheat-sheet
 See:
 
   * https://github.com/clach04/sample_reading_media
+      * https://github.com/clach04/sample_reading_media/blob/main/test_book_pandoc.md
