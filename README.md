@@ -8,18 +8,23 @@ date: 2026-04-10
 
 - [yet another markdown cheat sheet](#yet-another-markdown-cheat-sheet)
   * [Example Markdown Syntax](#example-markdown-syntax)
-    + [Paragraph](#paragraph)
+  * [Paragraph](#paragraph)
     + [Bullet List](#bullet-list)
     + [Numbered Bullet List](#numbered-bullet-list)
     + [Nested Lists](#nested-lists)
       - [Code Blocks](#code-blocks)
   * [HTML](#html)
     + [Heading](#heading)
-  * [GFM](#gfm)
   * [Tables in Markdown](#tables-in-markdown)
     + [Table GFM](#table-gfm)
     + [Table Google Code Wiki](#table-google-code-wiki)
     + [Raw HTML Table](#raw-html-table)
+  * [Syntax Demos](#syntax-demos)
+    + [test Python code](#test-python-code)
+    + [Mermaid Flowchart](#mermaid-flowchart)
+  * [GFM](#gfm)
+  * [Other Samples](#other-samples)
+  * [Markdown Tools](#markdown-tools)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -359,3 +364,15 @@ See:
 
   * https://github.com/clach04/sample_reading_media
       * https://github.com/clach04/sample_reading_media/blob/main/test_book_pandoc.md
+
+-----------
+
+## Markdown Tools
+
+  * https://ecotrust-canada.github.io/markdown-toc/
+      * https://github.com/jonschlinkert/markdown-toc
+      * https://github.com/Ecotrust-Canada/markdown-toc
+  * https://metaory.github.io/markon/
+      * https://github.com/metaory/markon
+  * https://pandoc.org/
+      * https://github.com/jgm/pandoc
